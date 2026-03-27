@@ -54,6 +54,13 @@ Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jorn
 </p>
 
 ---
+## 🦹 Commits
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandroNogueiraBittencourt/SandroNogueiraBittencourt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandroNogueiraBittencourt/SandroNogueiraBittencourt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandroNogueiraBittencourt/SandroNogueiraBittencourt/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📌 Áreas de Interesse
 
@@ -68,4 +75,6 @@ Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jorn
 
 ## 📫 Contato
 
-- GitHub: https://github.com/SandroNogueiraBittencourt
+📧 Email: sandronogueirabittencourt@outlook.com
+
+💼 GitHub: https://github.com/SandroNogueiraBittencourt
