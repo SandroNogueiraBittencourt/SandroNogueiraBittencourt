@@ -28,16 +28,23 @@ Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jorn
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroNogueiraBittencourt&theme=github_dark" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroNogueiraBittencourt&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroNogueiraBittencourt&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SandroNogueiraBittencourt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandroNogueiraBittencourt&theme=github-dark-dimmed&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
-
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
