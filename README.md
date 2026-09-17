@@ -41,7 +41,9 @@ Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jorn
   <img width="48%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandroNogueiraBittencourt&theme=github-dark-dimmed&hide_border=true" alt="Contribution Graph" />
+  <img width="96%"
+       src="./profile-summary-card-output/tokyonight/activity-graph.svg"
+       alt="Contribution Graph" />
 </p>
 
 ---
