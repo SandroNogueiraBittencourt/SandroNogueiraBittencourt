@@ -28,17 +28,17 @@ Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jorn
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+  <img width="96%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandroNogueiraBittencourt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=SandroNogueiraBittencourt&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 <p align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandroNogueiraBittencourt&theme=github-dark-dimmed&hide_border=true" alt="Contribution Graph" />
